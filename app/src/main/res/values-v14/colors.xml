@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#008577</color>-->
+    <!--<color name="colorPrimaryDark">#00574B</color>-->
+    <!--<color name="colorAccent">#D81B60</color>-->
+
+
+
+    <!--<color name="colorPrimary">#13547a</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+    <color name="colorPrimary">#13547a</color>
+    <color name="colorPrimaryDark">#13547a</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#ffffff</color>
+    <color name="grey">#757171</color>
+    <color name="backgroundColor">#3E454F</color>
+    <color name="lightGreen">#8BC34A</color>
+    <color name="green">#008000</color>
+    <color name="red">#FF0000</color>
+
+    <color name="black">#000000</color>
+    <color name="button_bg">#4E515E</color>
+    <color name="color1">#DFBA69</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="transparent">#88000000</color>
+    <color name="green_shade">#A8CF45</color>
+
+    <color name="can_you_feel_love">#4568DC</color>
+
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+
+    <color name="indigo_50">#E8EAF6</color>
+    <color name="indigo_100">#C5CAE9</color>
+    <color name="indigo_200">#9FA8DA</color>
+    <color name="indigo_300">#7986CB</color>
+    <color name="indigo_400">#5C6BC0</color>
+    <color name="indigo_500">#3F51B5</color>
+    <color name="indigo_600">#3949AB</color>
+    <color name="indigo_700">#303F9F</color>
+    <color name="indigo_800">#283593</color>
+    <color name="indigo_900">#1A237E</color>
+    <color name="indigo_A100">#8C9EFF</color>
+    <color name="indigo_A200">#536DFE</color>
+    <color name="indigo_A400">#3D5AFE</color>
+    <color name="indigo_A700">#304FFE</color>
+
+    <color name="colorNavIcon">#dae9f6</color>
+    <color name="colorNavText">#01294b</color>
+
+
+    <color name="primary_text">#DE000000</color>
+    <color name="secondary_text">#8A000000</color>
+
+    <color name="fifty_percent_transparency_grey_400">#80bdbdbd</color>
+
+    <color name="light_green">#53DAB1</color>
+    <color name="light_red">#F85068</color>
+
+    <color name="listItemColor">#3b3b3b</color>
+
+    <!-- Red application theme. -->
+    <color name="redPrimary">#F44336</color>
+    <color name="redPrimaryDark">#B71C1C</color>
+    <color name="redAccent">#D32F2F</color>
+    <color name="redBinaryTextField">#FFCDD2</color>
+
+
+    <!-- Green application theme. -->
+    <color name="greenPrimary">#00695C</color>
+    <color name="greenPrimaryDark">#004D40</color>
+    <color name="greenPrimaryLight">#26A69A</color>
+    <color name="greenAccent">#26A69A</color>
+    <color name="greenBinaryTextField">#B2DFDB</color>
+    <color name="greenPrimaryText">#212121</color>
+    <color name="greensecondary_text">#757575</color>
+    <color name="greenicons">#FFFFFF</color>
+    <color name="greendivider">#BDBDBD</color>
+
+    <!-- Grey application theme. -->
+    <color name="greyPrimary">#808080</color>
+    <color name="greyPrimaryDark">#424242</color>
+    <color name="greyPrimaryLight">#BDBDBD</color>
+    <color name="greyAccent">#BDBDBD</color>
+    <color name="greyBinaryTextField">#E0E0E0</color>
+    <color name="greyPrimaryText">#212121</color>
+    <color name="greysecondary_text">#757575</color>
+    <color name="greyicons">#FFFFFF</color>
+    <color name="greydivider">#BDBDBD</color>
+
+    <!-- Pink application theme. -->
+    <color name="pinkPrimary">#E91E63</color>
+    <color name="pinkPrimaryDark">#880E4F</color>
+    <color name="pinkPrimaryLight">#EC407A</color>
+    <color name="pinkAccent">#EC407A</color>
+    <color name="pinkBinaryTextField">#F8BBD0</color>
+    <color name="pinkPrimaryText">#212121</color>
+    <color name="pinksecondary_text">#757575</color>
+    <color name="pinkicons">#FFFFFF</color>
+    <color name="pinkdivider">#BDBDBD</color>
+
+    <!-- Orange application theme. -->
+    <color name="orangePrimary">#FF5722</color>
+    <color name="orangePrimaryDark">#BF360C</color>
+    <color name="orangePrimaryLight">#FF5722</color>
+    <color name="orangeAccent">#FF5722</color>
+    <color name="orangeBinaryTextField">#FFCCBC</color>
+    <color name="orangePrimaryText">#212121</color>
+    <color name="orangesecondary_text">#757575</color>
+    <color name="orangeicons">#FFFFFF</color>
+    <color name="orangedivider">#BDBDBD</color>
+
+
+    <!--Game colors-->
+    <color name="red_wrong">#a40000</color>
+    <color name="green_correct">#006600</color>
+
+
+
+</resources>

@@ -1,0 +1,4 @@
+#Sat Jun 08 00:32:41 IST 2019
+base.0=/home/mr-robot/github/7 June 2019 vocab/AndroidCustomGridView/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
